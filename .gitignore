@@ -1,3 +1,9 @@
-# Project exclude paths
+### Intellij IDEA ###
 .gradle
 .idea
+
+### Not Beans ###
+
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
