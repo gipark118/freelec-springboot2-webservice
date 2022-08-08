@@ -1,6 +1,6 @@
 package com.gipark.book.springboot.web;
 
-import com.gipark.book.springboot.service.posts.PostsService;
+import com.gipark.book.springboot.service.PostsService;
 import com.gipark.book.springboot.web.dto.PostsResponseDto;
 import com.gipark.book.springboot.web.dto.PostsSaveRequestDto;
 import com.gipark.book.springboot.web.dto.PostsUpdateRequestDto;
